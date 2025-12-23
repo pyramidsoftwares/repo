@@ -1,0 +1,17 @@
+Package: com.tuonome.tweak1
+Name: Nome del Tweak
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Il mio primo tweak
+Filename: debs/tuo-file.deb
+Size: 12345
+MD5sum: (codice md5)
+
+Package: bag.xml.tuberepair
+Name: TubeRepair
+Version: 1.1-Beta-2
+Architecture: iphoneos-arm
+Description: Spero che funzioni.
+Filename: https://github.com/pyramidsoftwares/repo/blob/main/debs/bag.xml.tuberepair_1.1-Beta-2_iphoneos-arm.deb
+Size: 101918
+MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
