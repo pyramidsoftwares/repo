@@ -63,7 +63,7 @@ MD5sum: fucky0ub1tchl0l3uwu0987654321ab
 
 Package: com.skyglow.mapsx
 Name: MapsX [by Requis (skyglow)]
-Version: 3.2.1
+Version: 1:3.2.1
 Architecture: iphoneos-arm
 Description: ADDIOS
 Filename: debs/mapsx.deb
