@@ -1,11 +1,11 @@
-Package: com.tuonome.tweak1
-Name: Nome del Tweak
-Version: 1.0
+Package: com.ps.test
+Name: test //(//DO NOT INSTALL BITCH!!!!!//)//
+Version: test
 Architecture: iphoneos-arm
-Description: Il mio primo tweak
-Filename: debs/tuo-file.deb
-Size: 12345
-MD5sum: (codice md5)
+Description: THIS IS A BITCH TEST
+Filename: debs/testnonexsisting.deb
+Size: 666666
+MD5sum: fucky0ub1tchl0l3uwu0987654321ab
 
 Package: bag.xml.tuberepair
 Name: TubeRepair (by bag.xml)
@@ -16,14 +16,14 @@ Filename: debs/tuberepair.deb
 Size: 101918
 MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
 
-Package: com.skitty.weatherx
-Name: WeatherX (by skitty)
+Package: com.skyglow.weatherx
+Name: WeatherX [by Requis (skyglow)]
 Version: 1:3.1
 Architecture: iphoneos-arm
 Description: Pane e Aglio
 Filename: debs/WeatherX.deb
-Size: 82100
-MD5sum: A6261FCBCBE36290F4AAA25357744D9E
+Size: 84100
+MD5sum: a6261fcbcbe36290f4aaa25357744d9e
 
 Package: eu.heinelt.ifile
 Name: iFile (by heinelt)
@@ -45,9 +45,27 @@ MD5sum: 372bf979c8bce7510dfcd006c2a83e52
 
 Package: uk.invoxiplaygames.checkmatestore
 Name: Checkmate, Store!!
-Version: 1.2
+Version: 1:1.2
 Architecture: iphoneos-arm
 Description: R U OK?
-Filename: debs/checkmatestore.deb
-Size: 12345
-MD5sum: (codice md5)
+Filename: debs/checkmatestore-1.2.deb
+Size: 5200
+MD5sum: 5245fc6431aadd77110a226b8f0d9ee8
+
+Package: com.ps.tut
+Name: Tutorial to fix Legacy iphoneOS //(//DO NOT INSTALL BITCH!!!!!//)//
+Version: test
+Architecture: iphoneos-arm
+Description: Remember: this is not a tweak its a tutorial! To fix Legacy iphoneOS, you need to install these tweaks, and others third party repos. BYE BITCH!!!!
+Filename: debs/testnonexsisting.deb
+Size: 666666
+MD5sum: fucky0ub1tchl0l3uwu0987654321ab
+
+Package: com.skyglow.mapsx
+Name: MapsX [by Requis (skyglow)]
+Version: 3.2.1
+Architecture: iphoneos-arm
+Description: ADDIOS
+Filename: debs/mapsx.deb
+Size: 110736
+MD5sum: 8b40111dacc1b363d87a59b05abb9d1b
