@@ -69,3 +69,12 @@ Description: ADDIOS
 Filename: debs/mapsx.deb
 Size: 110736
 MD5sum: 8b40111dacc1b363d87a59b05abb9d1b
+
+Package: com.rpetrich.sslpatch
+Name: SSL Patch (by Ryan Petrich)
+Version: 1:1.0
+Architecture: iphoneos-arm
+Description: hewo uwu
+Filename: debs/patch.deb
+Size: 9052
+MD5sum: d7f66b9b25b4a53d2d8992702ee8f53d
