@@ -7,7 +7,7 @@ Filename: debs/tuo-file.deb
 Size: 12345
 MD5sum: (codice md5)
 
-Package: com.bag.xml.tuberepair
+Package: bag.xml.tuberepair
 Name: TubeRepair
 Version: 1.1-Beta-2
 Architecture: iphoneos-arm
@@ -25,7 +25,7 @@ Filename: debs/WeatherX.deb
 Size: 82100
 MD5sum: A6261FCBCBE36290F4AAA25357744D9E
 
-Package: eu.heinlet.ifile
+Package: eu.heinelt.ifile
 Name: iFile
 Version: 2.2.0-1
 Architecture: iphoneos-arm
