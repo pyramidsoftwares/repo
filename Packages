@@ -6,6 +6,7 @@ Description: THIS IS A BITCH TEST
 Filename: debs/testnonexsisting.deb
 Size: 666666
 MD5sum: fucky0ub1tchl0l3uwu0987654321ab
+Section: tweaks
 
 Package: bag.xml.tuberepair
 Name: TubeRepair (by bag.xml)
@@ -15,6 +16,7 @@ Description: ok?
 Filename: debs/tuberepair.deb
 Size: 101918
 MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
+Section: tweaks
 
 Package: com.skyglow.weatherx
 Name: WeatherX [by Requis (skyglow)]
@@ -24,6 +26,7 @@ Description: Pane e Aglio
 Filename: debs/WeatherX.deb
 Size: 84100
 MD5sum: a6261fcbcbe36290f4aaa25357744d9e
+Section: tweaks
 
 Package: eu.heinelt.ifile
 Name: iFile (by heinelt)
@@ -33,6 +36,7 @@ Description: iFile
 Filename: debs/ifile.deb
 Size: 9751882
 MD5sum: 88766f339cc7b150e356331e4594db7b
+Section: applications
 
 Package: com.victorlobe.icloudmailfix
 Name: iCloud Mail Fix (by Victorlobe)
@@ -42,6 +46,7 @@ Description: FIX YOUR ASS UP WITH THIS TWEAK!!!!!!!
 Filename: debs/ifix.deb
 Size: 481970
 MD5sum: 372bf979c8bce7510dfcd006c2a83e52
+Section: tweaks
 
 Package: uk.invoxiplaygames.checkmatestore
 Name: Checkmate, Store!!
@@ -51,6 +56,7 @@ Description: R U OK?
 Filename: debs/checkmatestore-1.2.deb
 Size: 5200
 MD5sum: 5245fc6431aadd77110a226b8f0d9ee8
+Section: tweaks
 
 Package: com.ps.tut
 Name: Tutorial to fix Legacy iphoneOS //(//DO NOT INSTALL BITCH!!!!!//)//
@@ -60,6 +66,7 @@ Description: Remember: this is not a tweak its a tutorial! To fix Legacy iphoneO
 Filename: debs/testnonexsisting.deb
 Size: 666666
 MD5sum: fucky0ub1tchl0l3uwu0987654321ab
+Section: tutorials
 
 Package: com.skyglow.mapsx
 Name: MapsX [by Requis (skyglow)]
@@ -69,6 +76,7 @@ Description: ADDIOS
 Filename: debs/mapsx.deb
 Size: 110736
 MD5sum: 8b40111dacc1b363d87a59b05abb9d1b
+Section: tweaks
 
 Package: com.rpetrich.sslpatch
 Name: SSL Patch (by Ryan Petrich)
@@ -78,3 +86,4 @@ Description: hewo uwu
 Filename: debs/patch.deb
 Size: 9052
 MD5sum: d7f66b9b25b4a53d2d8992702ee8f53d
+Section: tweaks
