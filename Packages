@@ -42,3 +42,12 @@ Description: FIX YOUR ASS UP WITH THIS TWEAK!!!!!!!
 Filename: debs/ifix.deb
 Size: 481970
 MD5sum: 372bf979c8bce7510dfcd006c2a83e52
+
+Package: uk.invoxiplaygames.checkmatestore
+Name: Checkmate, Store!!
+Version: 1.2
+Architecture: iphoneos-arm
+Description: R U OK?
+Filename: debs/checkmatestore.deb
+Size: 12345
+MD5sum: (codice md5)
